@@ -1,6 +1,6 @@
 ### Hi there, I'm Tuan - aka [Karl Einstein][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://karleinstein.github.io)
+[![Website](https://karleinstein.github.io/assets/img/favicon-image.png)](https://karleinstein.github.io)
 
 ## I'm a Human, Reader, Developer, and Gamer!!
 
