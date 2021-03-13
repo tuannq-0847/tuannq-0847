@@ -1,6 +1,6 @@
 ### Hi there, I'm Tuan - aka [Karl Einstein][website] 👋
 
-[![Website](https://st2.depositphotos.com/2419757/10172/v/950/depositphotos_101726758-stock-illustration-icon-of-online-books-digital.jpg)](https://karleinstein.github.io)
+[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://karleinstein.github.io)
 
 ## I'm a Human, Reader, Developer, and Gamer!!
 
@@ -14,7 +14,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/aoq3jnnterr4m8e1gzoi0wylw)
 
 ### Connect with me:
-https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg
+
 [<img align="left" alt="karleinstein.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="karleinstein | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="karleinstein | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
